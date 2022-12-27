@@ -1,6 +1,9 @@
-# matplotlib-challenge
-
 # Module 5 Challenge - Pymaceuticals
+
+## matplotlib-challenge
+
+This is a challenge submission for UWA Data Analytics Bootcamp, Module 5 MatPlotLib
+
 
 What good is data without a good plot to tell the story?
 
