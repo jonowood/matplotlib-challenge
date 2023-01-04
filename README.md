@@ -90,3 +90,50 @@ Calculate Correlation and Regression
 Calculate the correlation coefficient and linear regression model between mouse weight and average tumour volume for the Capomulin treatment.
 
 Plot the linear regression model on top of the previous scatter plot.
+
+------- 
+
+## Analysis
+
+<img src="Pymaceuticals/images/timepoints vs drug PyPlot.png" alt="Timepoints vs Drug Regimen" title="Timepoints vs Drug Regimen">
+</br>
+<img src="Pymaceuticals/images/dist of mice by gender PyPlot.png" alt="Distribution of mice gender" title="Distribution of mice gender">
+</br>
+<img src="Pymaceuticals/images/final tumour sizes by drug type.png" alt="Final Tumour Sizes by Drug Regimen" title="Final Tumour Sizes by Drug Regimen">
+</br>
+<img src="Pymaceuticals/images/correlation_regression.png" alt="correlation_regression" title="Correlation Coefficient and Linear Regression Plot">
+</br>
+
+## Conclusions
+
+### Results of study analysis - Top-Level Summary
+
+#### Capomulin, Ramicane
+- Effective at reducing tumor size
+- Increases metastatic sites
+- Less effective with a higher weight 
+
+#### Ketapril, Naftisol, Stelasyn, Zoniferol & Propriva
+- None or negative effect on tumour growth
+- Results equal to Placebo
+- Zoniferol encorages meteatatic site increases
+
+### In general all drug regimens were less effective at higher weights of the subjects.
+-------
+The following files are included in this submission;
+
+Matplotlib-Challenge\
+
+..Pymaceuticals\
+
+....Pymaceuticals_Analysis.ipynb
+
+....data\
+
+......Mouse_metadata.csv
+
+......Study_results.csv
+
+....images\
+
+......(PNG Output of plots)
