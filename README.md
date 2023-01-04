@@ -103,8 +103,8 @@ Plot the linear regression model on top of the previous scatter plot.
 </br>
 <img src="Pymaceuticals/images/correlation_regression.png" alt="correlation_regression" title="Correlation Coefficient and Linear Regression Plot">
 </br>
--------
-### Conclusions
+
+## Conclusions
 
 ### Results of study analysis - Top-Level Summary
 
@@ -118,7 +118,7 @@ Plot the linear regression model on top of the previous scatter plot.
 - Results equal to Placebo
 - Zoniferol encorages meteatatic site increases
 
-In general all drug regimens were less effective at higher weights of the subjects.
+### In general all drug regimens were less effective at higher weights of the subjects.
 -------
 The following files are included in this submission;
 
